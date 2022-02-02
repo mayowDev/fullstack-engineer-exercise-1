@@ -4,6 +4,10 @@ You are a new employee for a testing agency that specializes on testing patients
 
 You quickly realize that instead of manually inputting this information, you could create an API endpoint to collect this data, and another to return the requested statistics. You do not know the country the test was administered in on submission, only the latitude/longitude, so you must leverage a third-party library to resolve latitude/longitude to country.
 
+# Technology Stack
+
+We have bootstrapped this task using typescript, Express, and MongoDB. You are free to use an alternative web application framework as long as you provide appropriate build instructions.
+
 # Requirements
 
 - Create an API endpoint that accepts new test results
