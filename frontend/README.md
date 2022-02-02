@@ -16,7 +16,11 @@ The project can be whatever, but ideally it is one of your dream projects you ha
 
 # Getting Started
 
-This project was bootstrapped using https://github.com/facebook/create-react-app.
+This project was bootstrapped using React (https://github.com/facebook/create-react-app).
+
+You are free to use an alternative web application framework as long as you provide appropriate build instructions.
+
+If you do use React, here are the instructions:
 
 In the project directory, you can run `yarn start` to start the app in the development mode.
 
