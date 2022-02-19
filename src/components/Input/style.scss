@@ -1,0 +1,18 @@
+
+
+
+.input-group{
+    display: flex;
+    flex-direction: column;
+    input{
+        min-width: 60%;
+        height: 2rem;
+    }
+    label{
+        margin: 0;
+    }
+    margin-bottom: 1rem;
+}
+
+.error-message{color: red; margin: 0;}
+.error{border:1px solid red}
