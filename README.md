@@ -21,13 +21,13 @@ The project can be whatever, but ideally it is one of your dream projects you ha
 
 # Getting Started
 
-This project was bootstrapped using React (https://github.com/facebook/create-react-app).
 
-You are free to use an alternative web application framework as long as you provide appropriate build instructions.
 
-If you do use React, here are the instructions:
+Follow the instructions below:
 
-In the project directory, you can run `yarn start` to start the app in the development mode.
+- clone this repository `git clone https://github.com/mayowDev/fullstack-engineer-exercise-1` 
+- change to the cloned directory `cd fullstack-engineer-exercise-1`
+- In the project directory,  run `yarn && yarn start` to install dependencies and start the app in the development mode.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
